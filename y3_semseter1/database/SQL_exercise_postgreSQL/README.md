@@ -10,6 +10,10 @@ they need not to use table c as a common attribute of table a and table b to joi
 4. revise 4.15
 
 
+5. in the slide folder, slide6 has detail of using postgreSQL (technical part)
 
 
-finish revising until 4.10
+
+
+finish revising until 4.10, 4.12, 4.13, 4.14, 4.16, 4.17(multiple tables joined)
+(not only 4.11, 4.15)
