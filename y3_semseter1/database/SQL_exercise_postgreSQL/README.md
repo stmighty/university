@@ -8,3 +8,8 @@ they need not to use table c as a common attribute of table a and table b to joi
 3. revise type of join ex. left join
 
 4. revise 4.15
+
+
+
+
+finish revising until 4.10
