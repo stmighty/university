@@ -5,3 +5,5 @@ There are 5 main sections
     3. Slide6,7 -> SQL (postgreSQL) (used with ../SQL_exercise_postgreSQL)
     4. Slide8 -> NoSQL (mongoDB) (used with ../NoSQL_mongo_exercise)
     5. slide9 and the rest
+
+Note ** I think I cannot publish the slide to this public repository due to copyright
