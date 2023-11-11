@@ -12,7 +12,7 @@ they need not to use table c as a common attribute of table a and table b to joi
 
 5. in the slide folder, slide6 has detail of using postgreSQL (technical part)
 
-6. 4.17 is not in aj exercise 
+6. 4.17 is not in aj exercise (extra with intermediate table, it is necessary you need to able to do this)
 
 
 
