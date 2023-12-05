@@ -1,3 +1,6 @@
+Prerequisite
+0. install docker and run command, the detail is in the folder "postgreSQL_installation_guide" (only on your local machine)
+
 1. best practice is in 4.1 and 4.2 you should use table.col not only col (I improve my code in 4.1 and 4.2 after the rest not sure wheter the rest are good practice or not)  
 ex. using customer.customer_id is better (practice) than using customer_id even we select only 1 table 
 
