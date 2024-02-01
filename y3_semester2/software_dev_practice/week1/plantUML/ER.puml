@@ -1,0 +1,18 @@
+@startuml
+entity "Entity01" as e01 {
+    *e1_id : number <<generated>>
+    --
+    *name : text
+     description : text
+}
+
+entity "Entity02" as e02 {
+    *e2_id : number <<generated>>
+    --
+    *e1_id : number <<FK>>
+    other_details : text
+}
+
+e01 "1"--"M" e02
+
+@enduml
